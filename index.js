@@ -1,25 +1,31 @@
-const express= require('express')
+const express = require('express')
 const app = express();
-const cors= require('cors')
-const port =process.env.PORT || 5000;
+const cors = require('cors')
+const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const category= require('./data/category.json')
-const courses= require('./data/course.json')
+const category = require('./data/category.json')
+const courses = require('./data/course.json')
 
-app.get('/',(req,res)=>{
+app.get('/', (req, res) => {
     res.send('Courses API Running')
 })
 
-app.get('/category',(req, res)=>{
+app.get('/category', (req, res) => {
     res.send(category)
 })
 
-app.get('/courses',(req,res)=>{
+app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
-app.listen(port,()=>{
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courses.find(c =>c._id===id);
+    res.send(selectedCourse)
+})
+
+app.listen(port, () => {
     console.log('EduHub server running on port', port)
 })
