@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "name": "Data Analytics",
+      "header":"What Do Data Analysts Do? Data analysts take mountains of data and probe it to spot trends, make forecasts, and extract information to help their employers make better-informed business decisions. The career path you take as a data analyst depends in large part on your employer.",
+      "price":""
+    },
+    {
+      "id": "02",
+      "name": "Front-End Developer ",
+      "header":" Front-end developers create the look and feel of a website or application. As a front-end developer you'll work with designers and back-end developers to make the website look and feel the way the client or designers want.",
+      "price":""
+    },
+    {
+      "id": "03",
+      "name": "Food and Nutrtions",
+      "header":"As a food scientist, there are a diverse range of roles that you could work towards including: Nutritionist or Public Health Nutritionist. Food Scientist or Technologist. Product Manager.",
+      "price":""
+    },
+    {
+      "id": "04",
+      "name": "Graphic Design",
+      "header":"Graphic design is a great career for people who are creative thinkers and enjoy art, technology, and communication. There are design needs across every industry, so Graphic Designers have many opportunities to take on a range of new and exciting projects.",
+      "price":""
+    },
+    {
+      "id": "05",
+      "name": "The Science of Well-Being ",
+      "header":"Learning new skills to improve my mindfulness, self-control and have a healthier life - including mental health - this course can be a great way to keep a life balanced",
+      "price":""
+    },
+    {
+      "id": "06",
+      "name": "Project Management",
+      "header":"Why choose a project management career path? · Higher demand leads to higher salary. · There's a lot of opportunity for growth and advancement. ",
+      "price":""
+    }
+  ]
