@@ -2,36 +2,42 @@
     {
       "_id": "01",
       "name": "Data Analytics",
+      "header":"What Do Data Analysts Do? Data analysts take mountains of data and probe it to spot trends, make forecasts, and extract information to help their employers make better-informed business decisions. The career path you take as a data analyst depends in large part on your employer.",
       "body":"Data analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making.Over 8 courses, gain in-demand skills that prepare you for an entry-level job. You’ll learn from Google employees whose foundations in data analytics served as launchpads for their own careers. At under 10 hours per week, you can complete the certificate in less than 6 months.  This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job.",
       "img":"https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
         },
     {
       "_id": "02",
       "name": "Front-End Developer ",
+      "header":" Front-end developers create the look and feel of a website or application. As a front-end developer you'll work with designers and back-end developers to make the website look and feel the way the client or designers want.",
       "body":"Throughout the program, you willl engage in hands-on activities that offer opportunities to practice and implement what you are learning. You’ll complete hands-on projects that you can showcase during job interviews and on relevant social networks. At the end of each course, you’ll complete a project to test your new skills and ensure you understand the criteria before moving on to the next course. There are 9 projects in which you’ll use a lab environment or a web application to perform tasks such as:  1)Edit your Bio page—using your skills in HTML5, CSS and UI frameworks. 2) Manage a project in GitHub—using version control in Git, Git repositories and the Linux Terminal. 3)Build a static version of an application—you’ll apply your understanding of React, frameworks, routing, hooks, bundlers and data fetching. At the end of the program, there will be a Capstone project where you will bring your new skillset together to create the front-end web application.",
       "img":"https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
     },
     {
       "_id": "03",
       "name": "Food and Nutrtions",
+      "header":"As a food scientist, there are a diverse range of roles that you could work towards including: Nutritionist or Public Health Nutritionist. Food Scientist or Technologist. Product Manager.",
       "body":"Around the world, we find ourselves facing global epidemics of obesity, Type 2 Diabetes and other predominantly diet-related diseases. To address these public health crises, we urgently need to explore innovative strategies for promoting healthful eating. There is strong evidence that global increases in the consumption of heavily processed foods, coupled with cultural shifts away from the preparation of food in the home, have contributed to high rates of preventable, chronic disease. In this course, learners will be given the information and practical skills they need to begin optimizing the way they eat. This course will shift the focus away from reductionist discussions about nutrients and move, instead, towards practical discussions about real food and the environment in which we consume it. By the end of this course, learners should have the tools they need to distinguish between foods that will support their health and those that threaten it. In addition, we will present a compelling rationale for a return to simple home cooking, an integral part of our efforts to live longer, healthier lives. View the trailer for the course here: https://www.youtube.com/watch?v=z7x1aaZ03xU",
       "img":"https://images.unsplash.com/photo-1474859569645-e0def92b02bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
       "_id": "04",
       "name": "Graphic Design",
+      "header":"Graphic design is a great career for people who are creative thinkers and enjoy art, technology, and communication. There are design needs across every industry, so Graphic Designers have many opportunities to take on a range of new and exciting projects.",
       "body":"Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio. The goal of this specialization is to equip learners with a set of transferable formal and conceptual tools for “making and communicating” in the field of graphic design. This core skill set will equip learners for formal studies in graphic design, and a starting point for further work in interface design, motion graphics, and editorial design.",
       "img":"https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
     },
     {
       "_id": "05",
       "name": "The Science of Well-Being ",
+      "header":"Learning new skills to improve my mindfulness, self-control and have a healthier life - including mental health - this course can be a great way to keep a life balanced",
       "body":"In this course you will engage in a series of challenges designed to increase your own happiness and build more productive habits. As preparation for these tasks, Professor Laurie Santos reveals misconceptions about happiness, annoying features of the mind that lead us to think the way we do, and the research that can help us change. You will ultimately be prepared to successfully incorporate a specific wellness activity into your life.",
       "img":"https://images.unsplash.com/photo-1453847668862-487637052f8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
     },
     {
       "_id": "06",
       "name": "Project Management",
+      "header":"Why choose a project management career path? · Higher demand leads to higher salary. · There's a lot of opportunity for growth and advancement. ",
       "body":"This program includes over 140 hours of instruction and hundreds of practice-based assessments which will help you simulate real-world project management scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in program and project management.  Creating risk management plans; Understanding process improvement techniques; Managing escalations, team dynamics, and stakeholders; Creating budgets and navigating procurement; Utilizing  project management software, tools, and templates; Practicing Agile project management, with an emphasis on Scrum. Through a mix of videos, assessments, and hands-on activities, you’ll get introduced to initiating, planning, and running both traditional and Agile projects. You will develop a toolbox to demonstrate your understanding of key project management elements, including managing a schedule, budget, and team.",
       "img":"https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=739&q=80"
     }
